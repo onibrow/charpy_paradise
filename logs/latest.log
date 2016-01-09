@@ -1,79 +1,216 @@
-[21:35:05] [Server thread/INFO]: Starting minecraft server version 1.8.9
-[21:35:05] [Server thread/INFO]: Loading properties
-[21:35:05] [Server thread/INFO]: Default game type: SURVIVAL
-[21:35:05] [Server thread/INFO]: Generating keypair
-[21:35:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:35:05] [Server thread/INFO]: Using default channel type
-[21:35:06] [Server thread/INFO]: Preparing level "world"
-[21:35:06] [Server thread/INFO]: Preparing start region for level 0
-[21:35:07] [Server thread/INFO]: Preparing spawn area: 46%
-[21:35:07] [Server thread/INFO]: Done (1.803s)! For help, type "help" or "?"
-[21:35:32] [User Authenticator #1/INFO]: UUID of player mrbeezwax is 24ee5a89-6588-4a50-8c8c-14a1f1cad672
-[21:35:32] [Server thread/INFO]: mrbeezwax[/205.175.98.111:61458] logged in with entity id 259 at (-36.401113156980436, 85.70400009155298, -27.57499998807906)
-[21:35:32] [Server thread/INFO]: mrbeezwax joined the game
-[21:35:54] [User Authenticator #2/INFO]: UUID of player Xsce_sk is e9078cef-3d7a-47eb-8a45-37d619248c7c
-[21:35:54] [Server thread/INFO]: Xsce_sk[/68.228.75.59:49911] logged in with entity id 1524 at (-42.39520834890429, 67.0, -49.92823679093487)
-[21:35:54] [Server thread/INFO]: Xsce_sk joined the game
-[21:36:09] [User Authenticator #3/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
-[21:36:09] [Server thread/INFO]: marinethan[/68.4.104.17:55986] logged in with entity id 2108 at (-1007.411273205261, 78.0, -250.30000001192087)
-[21:36:09] [Server thread/INFO]: marinethan joined the game
-[21:36:19] [Server thread/INFO]: <marinethan> wheee
-[21:36:27] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[21:36:29] [Server thread/INFO]: [Server] hailo
-[21:36:34] [Server thread/INFO]: [Server] is it still laggy
-[21:36:36] [Server thread/INFO]: [Server] hello
-[21:36:53] [Server thread/INFO]: marinethan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:36:53] [Server thread/INFO]: marinethan left the game
-[21:36:55] [Server thread/INFO]: [Server] yeah its still laggy
-[21:37:02] [Server thread/INFO]: There are 2/6 players online:
-[21:37:02] [Server thread/INFO]: mrbeezwax, Xsce_sk
-[21:37:13] [Server thread/INFO]: [Server] fam is watching netflix so rip
-[21:37:25] [Server thread/WARN]: Xsce_sk moved too quickly! -2.0952083369833616,-2.0,-10.628236779013939 (-2.0952083369833616, -2.0, -10.628236779013939)
-[21:37:27] [User Authenticator #4/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
-[21:37:27] [Server thread/INFO]: onibrow[/192.168.1.1:1570] logged in with entity id 6120 at (-25.76013293602245, 81.0, -20.694427297845976)
-[21:37:27] [Server thread/INFO]: onibrow joined the game
-[21:37:42] [Server thread/INFO]: <mrbeezwax> dam lmao
-[21:37:46] [User Authenticator #5/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
-[21:37:46] [Server thread/INFO]: marinethan[/68.4.104.17:56067] logged in with entity id 6794 at (-1007.411273205261, 78.0, -250.30000001192087)
-[21:37:46] [Server thread/INFO]: marinethan joined the game
-[21:37:49] [Server thread/INFO]: <marinethan> test
-[21:37:59] [Server thread/INFO]: <onibrow> test
-[21:38:01] [Server thread/INFO]: <mrbeezwax> test
-[21:38:09] [Server thread/INFO]: Xsce_sk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:38:09] [Server thread/INFO]: Xsce_sk left the game
-[21:38:17] [Server thread/INFO]: <marinethan> test
-[21:38:28] [Server thread/INFO]: <marinethan> a
-[21:38:36] [Server thread/INFO]: <marinethan> LOL its good now
-[21:38:41] [Server thread/INFO]: <mrbeezwax> hmm
-[21:38:52] [Server thread/INFO]: There are 3/6 players online:
-[21:38:52] [Server thread/INFO]: mrbeezwax, onibrow, marinethan
-[21:38:56] [Server thread/INFO]: [Server] test
-[21:39:00] [Server thread/INFO]: <mrbeezwax> we good!
-[21:39:00] [Server thread/INFO]: <marinethan> hullo
-[21:39:03] [Server thread/INFO]: <marinethan> its fine now
-[21:39:13] [Server thread/INFO]: <mrbeezwax> hey, how do i make that stone u had seiya
-[21:39:16] [Server thread/INFO]: <onibrow> uh
-[21:39:22] [Server thread/INFO]: <onibrow> juse put stone
-[21:39:26] [Server thread/INFO]: <onibrow> 2x2
-[21:39:31] [Server thread/INFO]: [Server] its bad again
-[21:39:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2896ms behind, skipping 57 tick(s)
-[21:40:07] [Server thread/INFO]: <marinethan> a
-[21:40:08] [Server thread/INFO]: <mrbeezwax> is it?
-[21:40:12] [Server thread/INFO]: <mrbeezwax> gg
-[21:40:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4159ms behind, skipping 83 tick(s)
-[21:40:14] [Server thread/INFO]: [Server] yeah
-[21:40:18] [Server thread/INFO]: [Server] its gonna go bad more
-[21:40:22] [Server thread/INFO]: Usage: /say <message ...>
-[21:40:25] [Server thread/INFO]: [Server] i need to shut it down
-[21:40:30] [Server thread/INFO]: <marinethan> test
-[21:40:30] [Server thread/INFO]: [Server] family wifi is dying lmao
-[21:40:31] [Server thread/INFO]: <mrbeezwax> guess nuff for tonight
-[21:40:32] [Server thread/INFO]: <marinethan> its fine now
-[21:40:32] [Server thread/INFO]: [Server] they mad
-[21:40:39] [Server thread/INFO]: <marinethan> LOL
-[21:40:42] [Server thread/INFO]: Changing to clear weather
-[21:40:43] [Server thread/INFO]: <mrbeezwax> bye mc
-[21:40:45] [Server thread/INFO]: [Server] yeah
-[21:40:47] [Server thread/INFO]: [Server] seeya
-[21:40:50] [Server Shutdown Thread/INFO]: Stopping server
-[21:40:50] [Server Shutdown Thread/INFO]: Saving players
+[00:44:03] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[00:44:03] [Server thread/INFO]: Loading properties
+[00:44:03] [Server thread/INFO]: Default game type: SURVIVAL
+[00:44:03] [Server thread/INFO]: Generating keypair
+[00:44:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:44:03] [Server thread/INFO]: Using default channel type
+[00:44:03] [Server thread/INFO]: Preparing level "world"
+[00:44:03] [Server thread/INFO]: Preparing start region for level 0
+[00:44:04] [Server thread/INFO]: Preparing spawn area: 21%
+[00:44:05] [Server thread/INFO]: Done (2.031s)! For help, type "help" or "?"
+[00:44:13] [User Authenticator #1/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
+[00:44:13] [Server thread/INFO]: onibrow[/192.168.1.1:1414] logged in with entity id 264 at (-36.429455476680005, 87.0, -18.55656431965302)
+[00:44:13] [Server thread/INFO]: onibrow joined the game
+[00:44:20] [User Authenticator #2/INFO]: UUID of player mrbeezwax is 24ee5a89-6588-4a50-8c8c-14a1f1cad672
+[00:44:20] [Server thread/INFO]: mrbeezwax[/205.175.98.111:58913] logged in with entity id 482 at (-46.91295218476802, 81.0, -22.825587162329867)
+[00:44:20] [Server thread/INFO]: mrbeezwax joined the game
+[00:44:24] [Server thread/INFO]: <onibrow> oh so smooth
+[00:44:27] [Server thread/INFO]: <mrbeezwax> lel
+[00:44:27] [User Authenticator #3/INFO]: UUID of player Xsce_sk is e9078cef-3d7a-47eb-8a45-37d619248c7c
+[00:44:27] [Server thread/INFO]: Xsce_sk[/68.228.75.59:60446] logged in with entity id 1308 at (-0.5812527516172219, 12.0, -55.574999988079085)
+[00:44:27] [Server thread/INFO]: Xsce_sk joined the game
+[00:44:32] [User Authenticator #4/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
+[00:44:32] [Server thread/INFO]: marinethan[/68.4.104.17:52019] logged in with entity id 1831 at (-1304.6427322893242, 70.0, 23.606266782020572)
+[00:44:32] [Server thread/INFO]: marinethan joined the game
+[00:44:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3074ms behind, skipping 61 tick(s)
+[00:44:45] [Server thread/INFO]: <onibrow> yeah ram usage is down to 1GB
+[00:44:57] [Server thread/INFO]: <onibrow> also it seems like if more than 3 join it goes a little wack
+[00:45:02] [Server thread/INFO]: Changing to clear weather
+[00:45:24] [Server thread/INFO]: <Xsce_sk> I hate little mac
+[00:45:26] [Server thread/INFO]: <Xsce_sk> he's op
+[00:45:28] [Server thread/INFO]: <onibrow> lmao
+[00:45:41] [Server thread/INFO]: <onibrow> he' sjust hard to fight against for some matchups
+[00:45:58] [Server thread/INFO]: <Xsce_sk> he is the opposite of zero suit
+[00:46:10] [Server thread/INFO]: <mrbeezwax> ez to take care of
+[00:46:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2072ms behind, skipping 41 tick(s)
+[00:46:52] [Server thread/INFO]: <onibrow> i'm off but i'll keep the server up for longer
+[00:47:01] [Server thread/INFO]: <onibrow> if you caht something on server i'll see it so
+[00:47:04] [Server thread/INFO]: <onibrow> seeya
+[00:47:05] [Server thread/INFO]: onibrow lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:47:05] [Server thread/INFO]: onibrow left the game
+[00:47:08] [Server thread/INFO]: <marinethan> hmm
+[00:47:13] [Server thread/INFO]: [Server] bubi
+[00:47:15] [Server thread/INFO]: <Xsce_sk> will you leave the server on overnight?
+[00:47:16] [Server thread/INFO]: <mrbeezwax> bye
+[00:47:18] [Server thread/INFO]: [Server] it'll be on for a bit
+[00:47:19] [Server thread/INFO]: <Xsce_sk> or will you turn it off soon
+[00:47:20] [Server thread/INFO]: <Xsce_sk> k
+[00:47:22] [Server thread/INFO]: [Server] proabbly not
+[00:47:27] [Server thread/INFO]: <Xsce_sk> msg before you destroy the server
+[00:47:32] [Server thread/INFO]: [Server] the resources will run out eventually
+[00:47:34] [Server thread/INFO]: [Server] yeah ofc
+[00:47:35] [Server thread/INFO]: <Xsce_sk> use msg to destroy the server*
+[00:47:41] [Server thread/INFO]: [Server] i'll msg yall
+[00:47:45] [Server thread/INFO]: [Server] or whoever is on
+[00:47:48] [Server thread/INFO]: <Xsce_sk> I'm allergic to MSG
+[00:48:04] [Server thread/INFO]: [Server] thats me three
+[00:48:32] [Server thread/INFO]: [Server] yeah server can only handle 3 people lmao
+[00:49:37] [Server thread/INFO]: Xsce_sk has just earned the achievement [Hot Topic]
+[00:50:35] [Server thread/INFO]: [Server] you're hot ;)
+[00:50:42] [Server thread/INFO]: <marinethan> tf
+[00:51:20] [Server thread/INFO]: Xsce_sk has just earned the achievement [Acquire Hardware]
+[00:53:22] [Server thread/INFO]: <marinethan> omg im home
+[00:57:41] [Server thread/INFO]: <mrbeezwax> alright im off for the night
+[00:57:43] [Server thread/INFO]: <mrbeezwax> bye guise
+[00:57:46] [Server thread/INFO]: <marinethan> bailo
+[00:57:54] [Server thread/INFO]: mrbeezwax lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:57:54] [Server thread/INFO]: mrbeezwax left the game
+[00:59:59] [Server thread/INFO]: [Server] how was your expedition juju
+[01:00:06] [Server thread/INFO]: <marinethan> pretty good i guess
+[01:00:08] [Server thread/INFO]: <marinethan> got saplings for jg
+[01:00:12] [Server thread/INFO]: <marinethan> cds
+[01:00:18] [Server thread/INFO]: [Server] jaaaa
+[01:00:19] [Server thread/INFO]: <marinethan> a couple more saddles
+[01:00:22] [Server thread/INFO]: [Server] nicenice
+[01:00:33] [Server thread/INFO]: [Server] any raw materials
+[01:00:46] [Server thread/INFO]: <marinethan> got lots of coal
+[01:00:51] [Server thread/INFO]: <marinethan> well not a lot
+[01:06:37] [User Authenticator #5/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
+[01:06:37] [Server thread/INFO]: marinethan lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:06:37] [Server thread/INFO]: marinethan left the game
+[01:06:37] [Server thread/WARN]: handleDisconnection() called twice
+[01:06:37] [Server thread/INFO]: marinethan[/68.4.104.17:52128] logged in with entity id 55127 at (-43.50356647093876, 87.0, -25.131068509457933)
+[01:06:37] [Server thread/INFO]: marinethan joined the game
+[01:06:39] [User Authenticator #6/INFO]: UUID of player Xsce_sk is e9078cef-3d7a-47eb-8a45-37d619248c7c
+[01:06:39] [Server thread/INFO]: Xsce_sk lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:06:39] [Server thread/INFO]: Xsce_sk left the game
+[01:06:39] [Server thread/INFO]: Xsce_sk[/68.228.75.59:60638] logged in with entity id 55378 at (0.8602461667991534, 11.0, -47.30000001192093)
+[01:06:39] [Server thread/INFO]: Xsce_sk joined the game
+[01:06:43] [Server thread/WARN]: marinethan moved wrongly!
+[01:06:45] [Server thread/INFO]: <marinethan> wat
+[01:06:49] [Server thread/INFO]: <Xsce_sk> ?
+[01:06:50] [Server thread/INFO]: [Server] its freaking out
+[01:06:50] [Server thread/INFO]: <marinethan> idk
+[01:06:57] [Server thread/INFO]: <marinethan> theres a creeper on seiyas farm
+[01:07:09] [Server thread/INFO]: [Server] don't touch it
+[01:07:13] [Server thread/INFO]: [Server] let it despawn
+[01:07:15] [Server thread/INFO]: [Server] plase
+[01:07:19] [Server thread/INFO]: <marinethan> WTF
+[01:07:27] [Server thread/INFO]: <Xsce_sk> kill it and get it's gunpowder
+[01:07:32] [Server thread/INFO]: <Xsce_sk> I need tnt to blow up seiyas farm
+[01:07:41] [Server thread/INFO]: <marinethan> i have some tnt
+[01:07:49] [Server thread/INFO]: <Xsce_sk> cool
+[01:07:53] [Server thread/INFO]: <Xsce_sk> lets blow up seiyas farm
+[01:08:36] [Server thread/INFO]: [Server] nawww g
+[01:08:50] [Server thread/INFO]: <Xsce_sk> yea place it there
+[01:08:54] [Server thread/INFO]: <Xsce_sk> how do we light it juju?
+[01:08:58] [Server thread/INFO]: <Xsce_sk> redstone torch?
+[01:09:03] [Server thread/INFO]: <Xsce_sk> or flint and steel
+[01:09:03] [Server thread/INFO]: <marinethan> flint and steel works
+[01:09:06] [Server thread/INFO]: <Xsce_sk> kk
+[01:09:10] [Server thread/INFO]: <Xsce_sk> how many do we need
+[01:09:15] [Server thread/INFO]: <marinethan> prob just 2
+[01:09:19] [Server thread/INFO]: <Xsce_sk> k
+[01:10:03] [Server thread/INFO]: <Xsce_sk> did you get the flint and steel?
+[01:10:06] [Server thread/INFO]: <marinethan> not yet
+[01:10:10] [Server thread/INFO]: <marinethan> i have no flint :(
+[01:10:14] [Server thread/INFO]: <Xsce_sk> me neither
+[01:10:16] [Server thread/INFO]: <marinethan> i do have redstone tho lol
+[01:10:20] [Server thread/INFO]: <Xsce_sk> same
+[01:10:22] [Server thread/INFO]: <Xsce_sk> it's in the mine though
+[01:10:24] [Server thread/INFO]: [Server] wtf no
+[01:10:31] [Server thread/INFO]: <marinethan> i have the stuff
+[01:10:36] [Server thread/INFO]: <Xsce_sk> k
+[01:11:47] [Server thread/INFO]: <marinethan> aret hese evenly placed
+[01:11:53] [Server thread/INFO]: Xsce_sk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:11:53] [Server thread/INFO]: Xsce_sk left the game
+[01:11:55] [User Authenticator #7/INFO]: UUID of player Xsce_sk is e9078cef-3d7a-47eb-8a45-37d619248c7c
+[01:11:56] [Server thread/INFO]: Xsce_sk[/68.228.75.59:60693] logged in with entity id 65009 at (-0.1308186449208867, 12.0, -55.57499998807907)
+[01:11:56] [Server thread/INFO]: Xsce_sk joined the game
+[01:12:05] [Server thread/INFO]: <Xsce_sk> woops i disconnected
+[01:12:09] [Server thread/INFO]: <Xsce_sk> yea they seem fine
+[01:12:13] [Server thread/INFO]: <Xsce_sk> do they blow eachother up
+[01:12:17] [Server thread/INFO]: <Xsce_sk> ?
+[01:12:18] [Server thread/INFO]: <marinethan> mhm chain reaction
+[01:12:25] [Server thread/INFO]: <Xsce_sk> put 1 more
+[01:12:31] [Server thread/INFO]: <marinethan> ohp lemme get one more
+[01:12:35] [Server thread/INFO]: [Server] please no
+[01:12:42] [Server thread/INFO]: <Xsce_sk> lel seiya
+[01:13:46] [Server thread/INFO]: <marinethan> still waiting for u to come
+[01:13:49] [Server thread/INFO]: <marinethan> with the flint and steel
+[01:14:45] [Server thread/INFO]: <Xsce_sk> k now is good i guess
+[01:14:54] [Server thread/INFO]: <marinethan> er lets get out of reach
+[01:14:57] [Server thread/INFO]: <marinethan> WTF
+[01:14:57] [Server thread/INFO]: <Xsce_sk> ?
+[01:14:59] [Server thread/INFO]: Xsce_sk blew up
+[01:14:59] [Server thread/INFO]: marinethan blew up
+[01:15:05] [Server thread/INFO]: <marinethan> U ACTUALLY DID IT
+[01:15:06] [Server thread/INFO]: <Xsce_sk> -_- juju
+[01:15:11] [Server thread/INFO]: Usage: /say <message ...>
+[01:15:15] [Server thread/INFO]: [Server] hello
+[01:15:20] [Server thread/INFO]: [Server] hello from the other side
+[01:15:22] [Server thread/INFO]: <Xsce_sk> LOL THE WHOLE HALF OF THE TREEHOUSE
+[01:15:24] [Server thread/INFO]: <Xsce_sk> LOLOL
+[01:15:27] [Server thread/INFO]: <marinethan> WOW
+[01:15:33] [Server thread/INFO]: <Xsce_sk> ITS SO MUCH BIGGER XD
+[01:15:39] [Server thread/INFO]: <Xsce_sk> THAN I EXPECTED
+[01:15:41] [Server thread/INFO]: <marinethan> i dont even have dirt
+[01:15:48] [Server thread/INFO]: [Server] what
+[01:16:02] [Server thread/INFO]: <marinethan> my items better still be there
+[01:16:05] [Server thread/INFO]: <Xsce_sk> seiyas bed is gone :P
+[01:16:18] [Server thread/INFO]: <Xsce_sk> !!!!!!!
+[01:16:26] [Server thread/INFO]: <Xsce_sk> LOL WHERE THERE ANIMALS IN THE FARM
+[01:16:38] [Server thread/INFO]: <Xsce_sk> WERE*
+[01:16:39] [Server thread/INFO]: <marinethan> literally 1 flew up and the other flew towards the farm
+[01:16:47] [Server thread/INFO]: <Xsce_sk> LOL!!!!!!!!!!!
+[01:17:43] [Server thread/INFO]: <Xsce_sk> seiya do you have a backup of the server?\
+[01:17:50] [Server thread/INFO]: [Server] yes
+[01:17:53] [Server thread/INFO]: [Server] but not recent one
+[01:17:54] [Server thread/INFO]: <Xsce_sk> how far back?
+[01:17:56] [Server thread/INFO]: <marinethan> uh oh
+[01:17:57] [Server thread/INFO]: <Xsce_sk> LOL
+[01:18:01] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[01:18:03] [Server thread/INFO]: [Server] so sad
+[01:18:10] [Server thread/INFO]: <Xsce_sk> don't be
+[01:18:10] [Server thread/INFO]: [Server] if its actually gone i will leave charpies
+[01:18:15] [Server thread/INFO]: <Xsce_sk> it brought me happiness
+[01:18:21] [Server thread/INFO]: <marinethan> u'll have to look at the damage tomorrow
+[01:18:24] [Server thread/INFO]: <marinethan> it's fixablei think
+[01:18:31] [Server thread/INFO]: [Server] you heard me
+[01:18:35] [Server thread/INFO]: <Xsce_sk> it will be better than ever
+[01:18:37] [Server thread/INFO]: <Xsce_sk> :)
+[01:18:43] [Server thread/INFO]: <marinethan> dont worry, that means we can expand it
+[01:18:47] [Server thread/INFO]: <Xsce_sk> '
+[01:18:48] [Server thread/INFO]: <marinethan> i brought watermelons back
+[01:18:55] [Server thread/INFO]: [Server] water melons suck
+[01:18:59] [Server thread/INFO]: <marinethan> :(
+[01:19:36] [User Authenticator #8/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
+[01:19:36] [Server thread/INFO]: onibrow[/192.168.1.1:2073] logged in with entity id 79751 at (-36.341369854585146, 87.0, -23.425450943601497)
+[01:19:36] [Server thread/INFO]: onibrow joined the game
+[01:19:55] [Server thread/INFO]: <onibrow> get these shit trees out of here
+[01:19:58] [Server thread/INFO]: <marinethan> NOO
+[01:19:59] [Server thread/INFO]: <onibrow> they just block the path
+[01:20:06] [Server thread/INFO]: <marinethan> oh which one
+[01:20:09] [Server thread/INFO]: <onibrow> this one
+[01:20:11] [Server thread/INFO]: <marinethan> ok sure
+[01:20:15] [Server thread/INFO]: <marinethan> i thot u meant all the trees
+[01:20:31] [Server thread/INFO]: <marinethan> i grew the jungle one!
+[01:20:32] [Server thread/INFO]: <onibrow> nice
+[01:20:34] [Server thread/INFO]: <onibrow> i like it
+[01:21:46] [Server thread/INFO]: <onibrow> don't plant trees on ground level
+[01:21:55] [Server thread/INFO]: <onibrow> it ruins the amount we can see across
+[01:24:53] [Server thread/INFO]: <marinethan> ima sleep
+[01:24:56] [Server thread/INFO]: <onibrow> gnite
+[01:24:57] [Server thread/INFO]: <Xsce_sk> cya
+[01:25:02] [Server thread/INFO]: <marinethan> bailo meowlo
+[01:25:03] [Server thread/INFO]: marinethan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:25:03] [Server thread/INFO]: marinethan left the game
+[01:31:05] [Server thread/INFO]: <onibrow> tkime to close server
+[01:31:07] [Server thread/INFO]: <Xsce_sk> k
+[01:31:08] [Server thread/INFO]: <Xsce_sk> cya
+[01:31:12] [Server thread/INFO]: Xsce_sk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:31:12] [Server thread/INFO]: Xsce_sk left the game
+[01:31:13] [Server thread/INFO]: <onibrow> seeya
+[01:31:15] [Server thread/INFO]: onibrow lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:31:15] [Server thread/INFO]: onibrow left the game
+[01:31:17] [Server Shutdown Thread/INFO]: Stopping server
