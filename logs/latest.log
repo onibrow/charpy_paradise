@@ -1,236 +1,221 @@
-[21:37:59] [Server thread/INFO]: Starting minecraft server version 1.8.9
-[21:37:59] [Server thread/INFO]: Loading properties
-[21:37:59] [Server thread/INFO]: Default game type: SURVIVAL
-[21:37:59] [Server thread/INFO]: Generating keypair
-[21:37:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:37:59] [Server thread/INFO]: Using default channel type
-[21:37:59] [Server thread/INFO]: Preparing level "world"
-[21:38:00] [Server thread/INFO]: Preparing start region for level 0
-[21:38:01] [Server thread/INFO]: Preparing spawn area: 23%
-[21:38:01] [Server thread/INFO]: Done (1.997s)! For help, type "help" or "?"
-[21:38:28] [User Authenticator #1/INFO]: UUID of player CharpyJuju is 24ee5a89-6588-4a50-8c8c-14a1f1cad672
-[21:38:28] [Server thread/INFO]: CharpyJuju[/205.175.98.111:64232] logged in with entity id 245 at (-24.92253800810015, 89.0, -22.211039496624515)
-[21:38:28] [Server thread/INFO]: CharpyJuju (formerly known as mrbeezwax) joined the game
-[21:38:41] [User Authenticator #2/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
-[21:38:41] [Server thread/INFO]: onibrow[/192.168.1.1:1136] logged in with entity id 1650 at (-38.527902397693936, 81.0, -26.067438302046476)
-[21:38:41] [Server thread/INFO]: onibrow joined the game
-[21:38:50] [Server thread/INFO]: There are 2/3 players online:
-[21:38:50] [Server thread/INFO]: CharpyJuju, onibrow
-[21:39:02] [Server thread/INFO]: <onibrow> hailo
-[21:39:05] [Server thread/INFO]: <CharpyJuju> hai
-[21:39:13] [Server thread/INFO]: <CharpyJuju> hangouts makes this lag right?
-[21:39:14] [Server thread/INFO]: <onibrow> its been a bit since we used this
-[21:39:16] [Server thread/INFO]: <onibrow> yeah
-[21:39:17] [Server thread/INFO]: <onibrow> so i'm off
-[21:39:40] [Server thread/INFO]: <onibrow> hhmm what ot do
-[21:40:15] [Server thread/INFO]: <onibrow> what you doing
-[21:40:22] [Server thread/INFO]: <CharpyJuju> nothign atm
-[21:40:30] [Server thread/INFO]: <CharpyJuju> not sure what to do rofl
-[21:40:35] [Server thread/INFO]: <onibrow> lets mine
-[21:40:43] [Server thread/INFO]: <onibrow> i need some tools tho
-[21:40:46] [Server thread/INFO]: <CharpyJuju> i mined last time
-[21:40:51] [Server thread/INFO]: <CharpyJuju> my chest has a lot of silver and some gold
-[21:40:51] [Server thread/INFO]: <onibrow> di dyou get diamond?
-[21:40:54] [Server thread/INFO]: <CharpyJuju> nope
-[21:41:03] [Server thread/INFO]: <onibrow> then doesn't count dude
-[21:41:07] [Server thread/INFO]: <onibrow> only want D's
-[21:41:11] [Server thread/INFO]: <CharpyJuju> tru
-[21:41:20] [Server thread/INFO]: <CharpyJuju> i got some redstone and lapiz if u want tfor decor
-[21:41:23] [Server thread/INFO]: <onibrow> ooh
-[21:41:58] [Server thread/INFO]: <CharpyJuju> but yea lets mine
-[21:42:37] [Server thread/INFO]: <onibrow> lemme fuck the cws first
-[21:42:42] [Server thread/INFO]: <CharpyJuju> yea
-[21:42:45] [Server thread/INFO]: <CharpyJuju> fuck the chickens too
-[21:42:52] [Server thread/INFO]: <CharpyJuju> i want feathers for arrows
-[21:43:34] [Server thread/INFO]: <CharpyJuju> btw how to enchant stuff with levels?
-[21:43:45] [Server thread/INFO]: <onibrow> we need an enchantement table
-[21:43:49] [Server thread/INFO]: <onibrow> which is a huge investment
-[21:44:14] [Server thread/INFO]: <onibrow> alright i'm ready
-[21:44:19] [Server thread/INFO]: <onibrow> do we have a mine that not uflly explored
-[21:44:49] [Server thread/INFO]: <CharpyJuju> uhh
-[21:44:52] [Server thread/INFO]: <CharpyJuju> not sure
-[21:45:03] [Server thread/INFO]: <CharpyJuju> i onyl explored one
-[21:45:36] [Server thread/INFO]: <onibrow> alright
-[21:45:39] [Server thread/INFO]: <onibrow> lets go to juju's mountain
-[21:45:51] [Server thread/INFO]: <CharpyJuju> get foood
-[21:45:56] [Server thread/INFO]: <onibrow> 10 meat
-[21:46:26] [Server thread/INFO]: <CharpyJuju> did u go already
-[21:46:30] [Server thread/INFO]: <onibrow> yeah
-[21:46:36] [Server thread/INFO]: <onibrow> i'm on the other side of his mountain
-[21:46:59] [Server thread/INFO]: <CharpyJuju> fucking baby zombie rekt me
-[21:47:03] [Server thread/INFO]: <onibrow> nice
-[21:47:22] [Server thread/INFO]: <onibrow> cmon
-[21:48:30] [Server thread/INFO]: <CharpyJuju> gravels the type that falls down right?
-[21:48:33] [Server thread/INFO]: <onibrow> yeah
-[21:48:40] [Server thread/INFO]: <onibrow> dead end
-[21:49:45] [Server thread/INFO]: <onibrow> ??
-[21:49:50] [Server thread/INFO]: <CharpyJuju> ?
-[21:49:52] [Server thread/INFO]: <onibrow> where u
-[21:50:34] [Server thread/INFO]: <CharpyJuju> didnt realize we were gonan make our own way
-[21:50:40] [Server thread/INFO]: <CharpyJuju> thought we were gonna go for another mine
-[21:51:35] [Server thread/INFO]: <CharpyJuju> are we gonna make individual paths?
-[21:51:39] [Server thread/INFO]: <onibrow> ofc
-[21:51:44] [Server thread/INFO]: <onibrow> why do u think we have 2 people
-[21:51:50] [Server thread/INFO]: <CharpyJuju> loneliness
-[21:51:58] [Server thread/INFO]: <onibrow> i found
-[21:51:59] [Server thread/INFO]: <onibrow> come
-[21:52:02] [Server thread/INFO]: <onibrow> i found cave
-[21:52:10] [Server thread/INFO]: <onibrow> with lava!
-[21:53:33] [Server thread/INFO]: <onibrow> oh its big
-[21:53:40] [Server thread/INFO]: <CharpyJuju> thers a witch gdi
-[21:53:45] [Server thread/INFO]: <onibrow> i go tit
-[21:53:54] [Server thread/INFO]: <CharpyJuju> oh it wrapped around lol
-[21:54:29] [Server thread/INFO]: <CharpyJuju> lets find some diamond
-[21:54:34] [Server thread/INFO]: <onibrow> ofc dude
-[21:54:37] [Server thread/INFO]: <onibrow> lmao
-[21:54:39] [Server thread/INFO]: <onibrow> found it
-[21:54:43] [Server thread/INFO]: <CharpyJuju> real wh
-[21:54:48] [Server thread/INFO]: <onibrow> true
-[21:54:54] [Server thread/INFO]: <onibrow> so e z
-[21:54:56] [Server thread/INFO]: <onibrow> right here
-[21:55:00] [Server thread/INFO]: CharpyJuju has just earned the achievement [DIAMONDS!]
-[21:55:06] [Server thread/INFO]: onibrow has just earned the achievement [DIAMONDS!]
-[21:55:16] [Server thread/INFO]: <onibrow> ok
-[21:55:19] [Server thread/INFO]: <onibrow> one of us goes back
-[21:55:27] [Server thread/INFO]: <onibrow> you wanna go back?
-[21:55:28] [Server thread/INFO]: <onibrow> or me
-[21:55:32] [Server thread/INFO]: <CharpyJuju> idc
-[21:55:32] [Server thread/INFO]: <onibrow> oh theres obsidian
-[21:55:36] [Server thread/INFO]: <onibrow> lets get osme
-[21:55:37] [Server thread/INFO]: <onibrow> UBT WAIT
-[21:55:40] [Server thread/INFO]: <onibrow> its dangeorus
-[21:55:46] [Server thread/INFO]: <CharpyJuju> obsidian hurts u?
-[21:55:50] [Server thread/INFO]: <onibrow> lava dummy
-[21:55:54] [Server thread/INFO]: <onibrow> it can be RIGHt underneath
-[21:55:55] [Server thread/INFO]: <onibrow> or not
-[21:55:57] [Server thread/INFO]: <onibrow> so its tricky
-[21:56:06] [Server thread/INFO]: <CharpyJuju> u need diamond for obsidian?
-[21:56:24] [Server thread/INFO]: <onibrow> where u go
-[21:56:31] [Server thread/INFO]: <CharpyJuju> other cave location
-[21:56:41] [Server thread/INFO]: <onibrow> come back i made you daxe
-[21:56:57] [Server thread/INFO]: <CharpyJuju> this part is ridic huge
-[21:57:40] [Server thread/INFO]: <CharpyJuju> obsidian is good for anythign other than netherworld?
-[21:57:43] [Server thread/INFO]: <onibrow> nothing
-[21:58:51] [Server thread/INFO]: <onibrow> we need 10 minimum
-[21:58:53] [Server thread/INFO]: <onibrow> how many you have
-[21:59:00] [Server thread/INFO]: <CharpyJuju> six
-[21:59:01] [Server thread/INFO]: <onibrow> nic
-[21:59:08] [Server thread/INFO]: <onibrow> give me your diamonds and obsidian
-[21:59:12] [Server thread/INFO]: <onibrow> i'll go stash it
-[21:59:15] [Server thread/INFO]: <onibrow> and make portal
-[21:59:16] [Server thread/INFO]: <onibrow> mmm
-[21:59:19] [Server thread/INFO]: <onibrow> i want one more obsidian
-[21:59:23] [Server thread/INFO]: <CharpyJuju> portal is end game though no?
-[21:59:26] [Server thread/INFO]: <onibrow> uhh
-[21:59:28] [Server thread/INFO]: <onibrow> not even lcose
-[21:59:50] [Server thread/INFO]: <onibrow> rmmbr to look UP when casve exploring
-[21:59:54] [Server thread/INFO]: <onibrow> lots of stuff on cieling
-[22:00:01] [Server thread/INFO]: <onibrow> zombie behind you
-[22:00:03] [Server thread/INFO]: <CharpyJuju> that feel when cave is too tall
-[22:00:22] [Server thread/INFO]: <onibrow> lmoa
-[22:00:25] [Server thread/INFO]: <onibrow> above you
-[22:00:33] [Server thread/INFO]: <onibrow> ouch
-[22:00:44] [Server thread/INFO]: <onibrow> this is ravine
-[22:00:46] [Server thread/INFO]: <onibrow> dankerinoi
-[22:00:53] [Server thread/INFO]: <CharpyJuju> its cool
-[22:02:03] [Server thread/INFO]: CharpyJuju tried to swim in lava
-[22:02:08] [Server thread/INFO]: <onibrow> oh my
-[22:02:12] [Server thread/INFO]: <CharpyJuju> lol
-[22:02:15] [Server thread/INFO]: <onibrow> good think you gave me your stuff
-[22:02:18] [Server thread/INFO]: <onibrow> but the fucking daxe
-[22:02:20] [Server thread/INFO]: <onibrow> you asshole
-[22:02:24] [Server thread/INFO]: <CharpyJuju> it can still be there no?
-[22:02:30] [Server thread/INFO]: <onibrow> lava destroys your items
-[22:02:40] [Server thread/INFO]: <onibrow> are you that bad at this game
-[22:02:43] [Server thread/INFO]: <CharpyJuju> it might be outside lava
-[22:02:47] [Server thread/INFO]: <onibrow> its like the #1 worst death
-[22:03:24] [Server thread/INFO]: <onibrow> what wer eusing to build on it
-[22:03:31] [Server thread/INFO]: <onibrow> what were you using to build on it
-[22:03:34] [Server thread/INFO]: <CharpyJuju> cobble
-[22:03:47] [Server thread/INFO]: <onibrow> i see nothing
-[22:03:53] [Server thread/INFO]: <onibrow> near the water?
-[22:03:56] [Server thread/INFO]: <CharpyJuju> yea
-[22:03:59] [Server thread/INFO]: <onibrow> bc the water would have pushed the stuff into lava
-[22:05:32] [Server thread/INFO]: <onibrow> -197 -65
-[22:05:51] [Server thread/INFO]: <CharpyJuju> lame
-[22:06:15] [Server thread/INFO]: <CharpyJuju> foudn diamond
-[22:06:17] [Server thread/INFO]: <onibrow> nic
-[22:12:53] [Server thread/INFO]: <CharpyJuju> i went across the ravine
-[22:12:56] [Server thread/INFO]: <CharpyJuju> and its deadend
-[22:13:03] [Server thread/INFO]: <onibrow> yeah ofc
-[22:13:06] [Server thread/INFO]: <onibrow> but it branches to smal caves
-[22:13:09] [Server thread/INFO]: <onibrow> so look carefully
-[22:13:12] [Server thread/INFO]: <onibrow> i spotted a few
-[22:13:16] [Server thread/INFO]: <CharpyJuju> so i should dig around?
-[22:13:19] [Server thread/INFO]: <onibrow> not on the ground floor
-[22:13:43] [Server thread/INFO]: <CharpyJuju> just like midway up?
-[22:13:51] [Server thread/INFO]: <onibrow> teah
-[22:18:41] [Server thread/INFO]: CharpyJuju burned to death
-[22:18:45] [Server thread/INFO]: <onibrow> lmao
-[22:18:49] [Server thread/INFO]: <CharpyJuju> rofl
-[22:19:06] [Server thread/INFO]: <CharpyJuju> ig ot out though so should be there
-[22:19:14] [Server thread/INFO]: <CharpyJuju> it was surprise lava
-[22:23:32] [Server thread/INFO]: * CharpyJuju <action CharpyJuju>
-[22:23:33] [Server thread/INFO]: onibrow has just earned the achievement [Cow Tipper]
-[22:23:35] [Server thread/INFO]: <CharpyJuju> lmao
-[22:23:45] [Server thread/INFO]: <CharpyJuju> oh well hope is lost
-[22:23:51] [Server thread/INFO]: <onibrow> why
-[22:24:10] [Server thread/INFO]: <CharpyJuju> some of it flew backinto lava
-[22:24:14] [Server thread/INFO]: <onibrow> lmao
-[22:24:17] [Server thread/INFO]: <onibrow> including diamonds?
-[22:24:19] [Server thread/INFO]: <onibrow> can you not be so bad
-[22:24:20] [Server thread/INFO]: <CharpyJuju> yea :[
-[22:24:30] [Server thread/INFO]: <CharpyJuju> im just bad
-[22:24:32] [Server thread/INFO]: <CharpyJuju> can't help it
-[22:25:23] [Server thread/INFO]: <CharpyJuju> can i respawn myself at spawn?
-[22:25:29] [Server thread/INFO]: <onibrow> yeah
-[22:25:32] [Server thread/INFO]: <onibrow> i just have to kill you
-[22:25:44] [Server thread/INFO]: <CharpyJuju> do i lose stuff?
-[22:25:46] [Server thread/INFO]: <onibrow> if youre ok with that
-[22:25:47] [Server thread/INFO]: <onibrow> ofc
-[22:25:51] [Server thread/INFO]: <onibrow> there sno easy way
-[22:25:52] [Server thread/INFO]: <CharpyJuju> go ahead
-[22:25:55] [Server thread/INFO]: <CharpyJuju> i have nothing
-[22:25:56] [Server thread/INFO]: <onibrow> i mean
-[22:26:02] [Server thread/INFO]: CharpyJuju fell out of the world
-[22:26:02] [Server thread/INFO]: Killed CharpyJuju
-[22:26:36] [Server thread/INFO]: <onibrow> you spawn here?
-[22:26:39] [Server thread/INFO]: <CharpyJuju> yea
-[22:26:40] [Server thread/INFO]: <CharpyJuju> bed
-[22:26:41] [Server thread/INFO]: <onibrow> oh
-[22:26:43] [Server thread/INFO]: <onibrow> can i sleep
-[22:26:46] [Server thread/INFO]: <onibrow> i haven't set spawn
-[22:26:55] [Server thread/INFO]: <onibrow> zzzzz
-[22:26:57] [Server thread/INFO]: <onibrow> zZZZZzzzzzzz
-[22:26:59] [Server thread/INFO]: <onibrow> zzZZZzzzzzz
-[22:27:00] [Server thread/INFO]: <CharpyJuju> zzzzz
-[22:27:01] [Server thread/INFO]: <onibrow> ZZZzzzzz
-[22:27:08] [Server thread/INFO]: <onibrow> we have nether now
-[22:27:19] [Server thread/INFO]: <CharpyJuju> whered u put it
-[22:27:22] [Server thread/INFO]: <onibrow> B2
-[22:27:39] [Server thread/INFO]: <CharpyJuju> ?
-[22:27:45] [Server thread/INFO]: <onibrow> basement 2
-[22:27:52] [Server thread/INFO]: <CharpyJuju> oh dank
-[22:29:17] [Server thread/INFO]: <onibrow> need more diamonds
-[22:29:22] [Server thread/INFO]: <CharpyJuju> yea
-[22:29:29] [Server thread/INFO]: <onibrow> did you find side caves tho
-[22:29:40] [Server thread/INFO]: <CharpyJuju> nope
-[22:29:42] [Server thread/INFO]: <onibrow> f
-[22:29:43] [Server thread/INFO]: <CharpyJuju> i died lookign for them
-[22:29:44] [Server thread/INFO]: <onibrow> wtf
-[22:29:45] [Server thread/INFO]: <onibrow> lmao
-[22:29:46] [Server thread/INFO]: <CharpyJuju> just laava
-[22:30:30] [Server thread/INFO]: <CharpyJuju> time to slaughter chiken soon
-[22:30:39] [Server thread/INFO]: <onibrow> no mybabies
-[22:31:15] [Server thread/INFO]: <onibrow> -197 -65
-[22:36:45] [Server thread/INFO]: <CharpyJuju> hmm getting tired
-[22:37:08] [Server thread/INFO]: <onibrow> mk
-[22:37:55] [Server thread/INFO]: <CharpyJuju> gonna log for tonight
-[22:38:02] [Server thread/INFO]: <onibrow> bailo
-[22:38:02] [Server thread/INFO]: <CharpyJuju> watch some shows or somethign til i sleep
-[22:38:09] [Server thread/INFO]: <CharpyJuju> baibai
-[22:38:15] [Server thread/INFO]: CharpyJuju lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:38:15] [Server thread/INFO]: CharpyJuju left the game
-[23:03:14] [Server thread/INFO]: onibrow lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[23:03:14] [Server thread/INFO]: onibrow left the game
-[23:03:20] [Server Shutdown Thread/INFO]: Stopping server
+[14:34:01] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[14:34:01] [Server thread/INFO]: Loading properties
+[14:34:01] [Server thread/INFO]: Default game type: SURVIVAL
+[14:34:01] [Server thread/INFO]: Generating keypair
+[14:34:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:34:02] [Server thread/INFO]: Using default channel type
+[14:34:02] [Server thread/INFO]: Preparing level "world"
+[14:34:02] [Server thread/INFO]: Preparing start region for level 0
+[14:34:03] [Server thread/INFO]: Preparing spawn area: 29%
+[14:34:04] [Server thread/INFO]: Done (1.844s)! For help, type "help" or "?"
+[14:35:31] [User Authenticator #1/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
+[14:35:31] [Server thread/INFO]: onibrow[/192.168.1.1:1206] logged in with entity id 302 at (-36.63301750614563, 87.0, -17.86310624783842)
+[14:35:31] [Server thread/INFO]: onibrow joined the game
+[14:36:05] [User Authenticator #2/INFO]: UUID of player Xsce_sk is e9078cef-3d7a-47eb-8a45-37d619248c7c
+[14:36:05] [Server thread/INFO]: Xsce_sk[/68.228.75.59:54247] logged in with entity id 1519 at (1.3069145861765932, 12.0, -46.16280635664636)
+[14:36:05] [Server thread/INFO]: Xsce_sk joined the game
+[14:46:23] [Server thread/INFO]: <onibrow> zzzzzzzz
+[14:46:28] [Server thread/INFO]: <onibrow> zzzzzzzz
+[14:47:10] [Server thread/INFO]: onibrow has just earned the achievement [We Need to Go Deeper]
+[14:47:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13469ms behind, skipping 269 tick(s)
+[14:47:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12333ms behind, skipping 246 tick(s)
+[14:47:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3161ms behind, skipping 63 tick(s)
+[14:48:09] [Server thread/INFO]: <onibrow> test
+[14:48:49] [Server thread/INFO]: Xsce_sk has just earned the achievement [Time to Strike!]
+[14:50:40] [Server thread/WARN]: Xsce_sk moved wrongly!
+[15:01:54] [Server thread/INFO]: Xsce_sk has just earned the achievement [Monster Hunter]
+[15:11:34] [Server thread/INFO]: onibrow lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:11:34] [Server thread/INFO]: onibrow left the game
+[15:13:58] [Server thread/INFO]: Xsce_sk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:13:58] [Server thread/INFO]: Xsce_sk left the game
+[15:17:37] [User Authenticator #3/INFO]: UUID of player Xsce_sk is e9078cef-3d7a-47eb-8a45-37d619248c7c
+[15:17:37] [Server thread/INFO]: Xsce_sk[/68.228.75.59:54456] logged in with entity id 43154 at (-184.69999998807907, 32.0, 227.53167521987885)
+[15:17:37] [Server thread/INFO]: Xsce_sk joined the game
+[15:18:20] [User Authenticator #4/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
+[15:18:20] [Server thread/INFO]: onibrow[/192.168.1.1:1223] logged in with entity id 43307 at (-174.32372776584484, 36.0, 224.28977347576523)
+[15:18:20] [Server thread/INFO]: onibrow joined the game
+[15:19:00] [Server thread/INFO]: onibrow lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:19:00] [Server thread/INFO]: onibrow left the game
+[15:19:31] [User Authenticator #5/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
+[15:19:31] [Server thread/INFO]: onibrow[/192.168.1.1:1230] logged in with entity id 43524 at (-144.728121254884, 36.0, 187.1448941486798)
+[15:19:31] [Server thread/INFO]: onibrow joined the game
+[15:20:22] [Server thread/INFO]: Xsce_sk was slain by Zombie Pigman
+[15:21:08] [Server thread/WARN]: Xsce_sk moved wrongly!
+[15:23:21] [Server thread/INFO]: <onibrow> test
+[15:35:54] [Server thread/WARN]: Xsce_sk moved wrongly!
+[15:41:51] [Server thread/INFO]: onibrow has just earned the achievement [Repopulation]
+[15:49:30] [Server thread/INFO]: onibrow has just earned the achievement [The Lie]
+[15:54:33] [Server thread/INFO]: <Xsce_sk> 3:52 PM - [SAAS]FriendlyNood: LOL
+[15:54:45] [Server thread/INFO]: <Xsce_sk> 3:52 PM - [SAAS]FriendlyNood: tell seiya he sucks :3
+[15:55:48] [Server thread/INFO]: [Server] hello from the other side
+[15:56:18] [User Authenticator #6/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
+[15:56:18] [Server thread/INFO]: marinethan[/68.4.104.17:51099] logged in with entity id 92369 at (-43.48579426047701, 87.0, -25.634927686635386)
+[15:56:18] [Server thread/INFO]: marinethan joined the game
+[15:56:34] [Server thread/INFO]: <marinethan> i didnt say anything about u!!
+[15:56:36] [Server thread/INFO]: <marinethan> ace madei tup
+[15:56:37] [Server thread/INFO]: marinethan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:56:37] [Server thread/INFO]: marinethan left the game
+[16:08:42] [User Authenticator #7/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
+[16:08:42] [Server thread/INFO]: marinethan[/68.4.104.17:51168] logged in with entity id 103619 at (-43.48579426047701, 87.0, -25.634927686635386)
+[16:08:42] [Server thread/INFO]: marinethan joined the game
+[16:10:01] [Server thread/INFO]: Xsce_sk fell from a high place
+[16:13:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2277ms behind, skipping 45 tick(s)
+[16:14:17] [Server thread/INFO]: marinethan fell from a high place
+[16:14:24] [Server thread/INFO]: <marinethan> the eff
+[16:14:42] [Server thread/INFO]: <marinethan> wat the actual
+[16:14:52] [Server thread/INFO]: <marinethan> so im just standing on my tree pathway
+[16:15:01] [Server thread/INFO]: <marinethan> looking down
+[16:15:04] [Server thread/INFO]: <marinethan> checking inv
+[16:15:07] [Server thread/INFO]: <marinethan> i get hit by idk wat
+[16:15:09] [Server thread/INFO]: <marinethan> and if all to my death
+[16:15:14] [Server thread/INFO]: <onibrow> super sad
+[16:15:16] [Server thread/INFO]: <marinethan> theres nothing there wtf
+[16:15:21] [Server thread/INFO]: <onibrow> skele?
+[16:15:23] [Server thread/INFO]: <onibrow> snipe?
+[16:15:24] [Server thread/INFO]: <marinethan> no skele
+[16:15:43] [Server thread/INFO]: <marinethan> wtf
+[16:15:57] [Server thread/INFO]: <onibrow> did you lose your stuff?
+[16:16:00] [Server thread/INFO]: <marinethan> no i got them
+[16:16:02] [Server thread/INFO]: <marinethan> but im so confused
+[16:17:01] [Server thread/INFO]: [Server] server just says you died from fall damage
+[16:18:36] [Server thread/INFO]: <marinethan> ww...
+[16:18:37] [Server thread/INFO]: <marinethan> wow
+[16:18:40] [Server thread/INFO]: <marinethan> i think i found out wat it was
+[16:18:44] [Server thread/INFO]: <onibrow> ?
+[16:18:57] [Server thread/INFO]: <marinethan> actually idk :(
+[16:19:10] [Server thread/INFO]: <onibrow> what skin is that
+[16:19:13] [Server thread/INFO]: <marinethan> pepe
+[16:19:16] [Server thread/INFO]: <onibrow> lmao
+[16:19:39] [Server thread/INFO]: <onibrow> what you use this mountainfor?
+[16:19:43] [Server thread/INFO]: <marinethan> idk
+[16:20:01] [Server thread/INFO]: <marinethan> a zoo maybe
+[16:20:01] [Server thread/INFO]: <onibrow> yay enderpearl
+[16:20:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2361ms behind, skipping 47 tick(s)
+[16:22:04] [Server thread/INFO]: <onibrow> phone reset for somereason
+[16:22:05] [Server thread/INFO]: <onibrow> wtf
+[16:25:54] [Server thread/INFO]: Changing to clear weather
+[16:27:27] [Server thread/INFO]: <marinethan> i ha
+[16:27:30] [Server thread/INFO]: <onibrow> ?
+[16:27:31] [Server thread/INFO]: <marinethan> whose stuff is in my chest
+[16:27:36] [Server thread/INFO]: <Xsce_sk> mine
+[16:27:37] [Server thread/INFO]: <onibrow> ace
+[16:27:38] [Server thread/INFO]: <marinethan> oh k
+[16:28:00] [Server thread/INFO]: Xsce_sk has just earned the achievement [DIAMONDS!]
+[16:29:58] [Server thread/INFO]: marinethan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:29:58] [Server thread/INFO]: marinethan left the game
+[16:30:58] [Server thread/INFO]: <onibrow> test
+[16:33:05] [User Authenticator #8/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
+[16:33:05] [Server thread/INFO]: marinethan[/68.4.104.17:51460] logged in with entity id 167523 at (-30.390803894123245, 57.0, -59.17061557820013)
+[16:33:05] [Server thread/INFO]: marinethan joined the game
+[16:33:12] [Server thread/INFO]: <marinethan> lol creeper coming to me
+[16:33:13] [Server thread/INFO]: <marinethan> dad comes
+[16:33:14] [Server thread/INFO]: <marinethan> so i d/c
+[16:33:21] [Server thread/INFO]: <onibrow> creeper, dad same thing
+[16:33:24] [Server thread/INFO]: <marinethan> :)
+[16:35:07] [Server thread/INFO]: <marinethan> ima make a railroad that loops through the two villages
+[16:35:10] [Server thread/INFO]: <marinethan> like a trains tation
+[16:35:13] [Server thread/INFO]: <onibrow> ooooh
+[16:35:14] [Server thread/INFO]: <onibrow> crazy
+[16:35:17] [Server thread/INFO]: <marinethan> time to get iron
+[16:35:19] [Server thread/INFO]: <marinethan> or find mineshaft
+[16:38:40] [Server thread/INFO]: Changing to clear weather
+[16:47:23] [Server thread/INFO]: Changing to clear weather
+[16:50:32] [Server thread/INFO]: marinethan has just earned the achievement [DIAMONDS!]
+[16:50:45] [Server thread/INFO]: <marinethan> that calls for a celebration
+[16:50:54] [Server thread/INFO]: <onibrow> yay
+[16:51:10] [Server thread/INFO]: <marinethan> here we go ace
+[16:51:13] [Server thread/INFO]: <marinethan> celebration in ur mine
+[16:52:50] [Server thread/INFO]: <marinethan> wat u say
+[16:52:53] [Server thread/INFO]: <onibrow> i take saddle
+[16:52:56] [Server thread/INFO]: <marinethan> k
+[16:54:57] [Server thread/INFO]: <marinethan> do we have an anvil yet
+[16:55:00] [Server thread/INFO]: <onibrow> no
+[16:55:03] [Server thread/INFO]: <marinethan> where do we put it
+[16:55:09] [Server thread/INFO]: <onibrow> probably B2
+[16:55:27] [Server thread/INFO]: <marinethan> git add ok
+[16:55:32] [Server thread/INFO]: <onibrow> git add *
+[16:55:39] [Server thread/INFO]: <onibrow> git commit -a -m 'fuck julian'
+[16:55:42] [Server thread/INFO]: <marinethan> !!!
+[16:55:43] [Server thread/INFO]: <onibrow> git push
+[16:55:48] [Server thread/INFO]: <marinethan> git HEAD reset
+[16:55:56] [Server thread/INFO]: <onibrow> git force push
+[16:56:00] [Server thread/INFO]: <marinethan> git force pull
+[16:56:16] [Server thread/INFO]: <onibrow> doesn't compute
+[16:56:20] [Server thread/INFO]: <onibrow> files rekt
+[16:56:23] [Server thread/INFO]: <marinethan> lol
+[16:56:25] [Server thread/INFO]: Changing to clear weather
+[16:59:58] [Server thread/INFO]: onibrow lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:59:58] [Server thread/INFO]: onibrow left the game
+[17:05:38] [Server thread/INFO]: <marinethan> 69,-321
+[17:05:42] [Server thread/INFO]: <marinethan> -213,-854
+[17:19:26] [User Authenticator #9/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
+[17:19:26] [Server thread/INFO]: onibrow[/192.168.1.1:1448] logged in with entity id 267158 at (-45.30183252063928, 87.0, -22.338554818748243)
+[17:19:26] [Server thread/INFO]: onibrow joined the game
+[17:19:29] [Server thread/INFO]: <onibrow> hailo
+[17:19:39] [Server thread/INFO]: Changing to clear weather
+[17:20:01] [Server thread/INFO]: <onibrow> did you make rail to the village/
+[17:20:08] [Server thread/INFO]: <marinethan> no rofl
+[17:20:12] [Server thread/INFO]: <marinethan> soon
+[17:20:30] [Server thread/INFO]: <marinethan> wherei i put eggs
+[17:20:35] [Server thread/INFO]: <onibrow> just thorw them
+[17:20:36] [Server thread/INFO]: <onibrow> in
+[17:20:37] [Server thread/INFO]: <onibrow> the pen
+[17:20:58] [Server thread/INFO]: <onibrow> i name it frog
+[17:21:01] [Server thread/INFO]: <onibrow> or freg
+[17:21:05] [Server thread/INFO]: <onibrow> which one
+[17:21:05] [Server thread/INFO]: <marinethan> k
+[17:21:08] [Server thread/INFO]: <marinethan> frog :)
+[17:21:16] [Server thread/INFO]: <onibrow> wtf
+[17:21:28] [Server thread/INFO]: <onibrow> how to use it
+[17:22:14] [Server thread/INFO]: <onibrow> how do i use it
+[17:22:16] [Server thread/INFO]: <onibrow> wtf
+[17:22:19] [Server thread/INFO]: <marinethan> lol
+[17:22:29] [Server thread/INFO]: <onibrow> wtf
+[17:22:35] [Server thread/INFO]: <marinethan> nametag must be renamed in anvil
+[17:22:42] [Server thread/INFO]: <onibrow> ooooh
+[17:22:44] [Server thread/INFO]: <onibrow> where that
+[17:22:58] [Server thread/INFO]: <marinethan> idk 'll make an anvil
+[17:23:30] [Server thread/INFO]: <onibrow> put it in B2
+[17:24:00] [Server thread/INFO]: <marinethan> idk where b2 is
+[17:24:05] [Server thread/INFO]: <onibrow> Bottom 2
+[17:24:09] [Server thread/INFO]: <onibrow> so Basement 2
+[17:24:12] [Server thread/INFO]: <onibrow> L2
+[17:24:15] [Server thread/INFO]: <onibrow> i call it L2
+[17:24:18] [Server thread/INFO]: <onibrow> from now on
+[17:24:22] [Server thread/INFO]: <onibrow> and G for ground
+[17:24:26] [Server thread/INFO]: <onibrow> U1 for upper 1
+[17:24:31] [Server thread/INFO]: <onibrow> U2 for tree area
+[17:24:38] [Server thread/INFO]: <marinethan> is b2 the portal room
+[17:24:42] [Server thread/INFO]: <onibrow> yeah
+[17:24:46] [Server thread/INFO]: <onibrow> wait
+[17:24:48] [Server thread/INFO]: <onibrow> give to me
+[17:25:46] [Server thread/INFO]: <marinethan> LOL
+[17:25:53] [Server thread/INFO]: <marinethan> k i gotta go back to village
+[17:25:55] [Server thread/INFO]: <onibrow> so high jump
+[17:26:09] [Server thread/INFO]: <onibrow> so fast
+[17:26:37] [Server thread/INFO]: <onibrow> fuck
+[17:27:22] [Server thread/INFO]: <onibrow> what
+[17:30:18] [Server thread/INFO]: <marinethan> 3 emerald for book shelf
+[17:30:20] [Server thread/INFO]: <marinethan> is it worth
+[17:30:21] [Server thread/INFO]: <onibrow> no
+[17:30:23] [Server thread/INFO]: <marinethan> k
+[17:30:28] [Server thread/INFO]: <onibrow> just take their books
+[17:30:31] [Server thread/INFO]: <onibrow> they have it at library
+[17:30:36] [Server thread/INFO]: <marinethan> mk not this one
+[17:32:11] [Server thread/INFO]: <marinethan> oh nvm
+[17:32:14] [Server thread/INFO]: <marinethan> cant talk anymore
+[17:32:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2688ms behind, skipping 53 tick(s)
+[17:32:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4460ms behind, skipping 89 tick(s)
+[17:33:03] [Server thread/INFO]: Changing to clear weather
+[17:33:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2388ms behind, skipping 47 tick(s)
+[17:33:30] [Server thread/INFO]: marinethan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:33:30] [Server thread/INFO]: marinethan left the game
+[17:34:27] [User Authenticator #10/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
+[17:34:27] [Server thread/INFO]: marinethan[/68.4.104.17:52238] logged in with entity id 308091 at (-56.94600725666754, 64.8500000178814, -864.5523527512843)
+[17:34:27] [Server thread/INFO]: marinethan joined the game
+[17:34:58] [Server thread/INFO]: <marinethan> my sister wants to join
+[17:35:01] [Server thread/INFO]: <onibrow> let her
+[17:35:09] [Server thread/INFO]: <marinethan> need to set max players
+[17:35:14] [Server thread/INFO]: <onibrow> oooh yeah
+[17:35:16] [Server thread/INFO]: <onibrow> i'll back it uptoo
+[17:35:17] [Server thread/INFO]: <onibrow> brb
