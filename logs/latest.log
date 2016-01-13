@@ -1,137 +1,55 @@
-[17:39:48] [Server thread/INFO]: Starting minecraft server version 1.8.9
-[17:39:48] [Server thread/INFO]: Loading properties
-[17:39:48] [Server thread/INFO]: Default game type: SURVIVAL
-[17:39:48] [Server thread/INFO]: Generating keypair
-[17:39:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:39:48] [Server thread/INFO]: Using default channel type
-[17:39:48] [Server thread/INFO]: Preparing level "world"
-[17:39:49] [Server thread/INFO]: Preparing start region for level 0
-[17:39:50] [Server thread/INFO]: Preparing spawn area: 17%
-[17:39:51] [Server thread/INFO]: Preparing spawn area: 93%
-[17:39:51] [Server thread/INFO]: Done (2.218s)! For help, type "help" or "?"
-[17:39:56] [User Authenticator #1/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
-[17:39:56] [Server thread/INFO]: onibrow[/192.168.1.1:1483] logged in with entity id 332 at (-22.885645726713324, 77.0, -5.141959296579912)
-[17:39:56] [Server thread/INFO]: onibrow joined the game
-[17:39:59] [User Authenticator #2/INFO]: UUID of player candy__lover is b4b606fe-f556-4c38-bbbe-be44dfbc7755
-[17:39:59] [Server thread/INFO]: candy__lover[/68.4.104.17:61576] logged in with entity id 666 at (-121.5, 65.0, 66.5)
-[17:39:59] [Server thread/INFO]: candy__lover joined the game
-[17:40:18] [Server thread/INFO]: <onibrow> hai steph
-[17:40:19] [User Authenticator #3/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
-[17:40:19] [Server thread/INFO]: marinethan[/68.4.104.17:52316] logged in with entity id 1789 at (-9.300000011920936, 64.8500000178814, -756.6999999880791)
-[17:40:19] [Server thread/INFO]: marinethan joined the game
-[17:40:25] [Server thread/INFO]: <candy__lover> hey
-[17:40:31] [Server thread/INFO]: <onibrow> its yo boy Seiya
-[17:40:36] [Server thread/INFO]: <candy__lover> ok little boi
-[17:40:40] [Server thread/INFO]: <marinethan> rofl
-[17:40:41] [Server thread/INFO]: <onibrow> dang
-[17:40:44] [Server thread/INFO]: <onibrow> i got smited
-[17:40:50] [Server thread/INFO]: <candy__lover> just like ur mom
-[17:40:53] [Server thread/INFO]: <marinethan> btw im juju
-[17:40:54] [Server thread/INFO]: <onibrow> :O
-[17:40:59] [Server thread/INFO]: <marinethan> im on ethans acc
-[17:41:02] [Server thread/INFO]: <candy__lover> ok
-[17:43:59] [Server thread/INFO]: <candy__lover> juju
-[17:44:01] [Server thread/INFO]: <candy__lover> whats this
-[17:44:10] [Server thread/INFO]: <onibrow> ?
-[17:44:15] [Server thread/INFO]: <onibrow> where areyou
-[17:44:24] [Server thread/INFO]: <candy__lover> where the torches are
-[17:44:32] [Server thread/INFO]: <marinethan> its my tree castle
-[17:44:36] [Server thread/INFO]: <onibrow> oooh
-[17:45:55] [Server thread/INFO]: <candy__lover> brb
-[17:46:24] [Server thread/INFO]: <onibrow> howdyou get that rod juju
-[17:46:30] [Server thread/INFO]: <marinethan> i made the rod
-[17:52:03] [Server thread/INFO]: Changing to clear weather
-[17:52:21] [User Authenticator #4/INFO]: UUID of player Xsce_sk is e9078cef-3d7a-47eb-8a45-37d619248c7c
-[17:52:21] [Server thread/INFO]: Xsce_sk[/68.228.75.59:55683] logged in with entity id 33546 at (32.162900289082756, 80.00133597911214, -53.358864394325906)
-[17:52:21] [Server thread/INFO]: Xsce_sk joined the game
-[17:52:42] [Server thread/WARN]: marinethan moved wrongly!
-[17:52:54] [Server thread/INFO]: <onibrow> test
-[17:52:54] [Server thread/INFO]: <marinethan> test
-[17:52:56] [Server thread/INFO]: onibrow lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[17:52:56] [Server thread/INFO]: onibrow left the game
-[17:52:59] [Server thread/INFO]: [Server] server can'thandle 4 people
-[17:53:00] [Server thread/INFO]: <marinethan> test
-[17:53:03] [Server thread/INFO]: [Server] i knew it
-[17:53:06] [Server thread/INFO]: <marinethan> rip
-[17:53:07] [User Authenticator #5/INFO]: UUID of player onibrow is c1c86ef1-4233-4057-a0b2-70dca9f5d755
-[17:53:07] [Server thread/INFO]: onibrow[/192.168.1.1:1522] logged in with entity id 35855 at (-19.477913457913893, 71.0, 30.36963444550019)
-[17:53:07] [Server thread/INFO]: onibrow joined the game
-[17:53:12] [Server thread/INFO]: <Xsce_sk> I'm leaving
-[17:53:12] [Server thread/INFO]: <marinethan> test
-[17:53:13] [Server thread/INFO]: <onibrow> test
-[17:53:13] [Server thread/INFO]: Xsce_sk lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[17:53:13] [Server thread/INFO]: Xsce_sk left the game
-[17:53:18] [Server thread/INFO]: <onibrow> test
-[17:53:22] [Server thread/INFO]: <marinethan> test
-[17:53:25] [Server thread/INFO]: <candy__lover> test
-[17:53:35] [Server thread/INFO]: <marinethan> test
-[17:53:39] [Server thread/INFO]: <onibrow> yeah
-[17:53:41] [Server thread/INFO]: <onibrow> its back now
-[17:53:45] [Server thread/INFO]: <onibrow> only 3 people at a time max
-[17:53:54] [Server thread/INFO]: <marinethan> interesting
-[17:54:16] [Server thread/INFO]: <onibrow> i need 8 more leather
-[17:54:22] [Server thread/INFO]: <onibrow> also remember we need lapiz to enchant
-[17:54:48] [Server thread/INFO]: <candy__lover> where are u guys
-[17:54:50] [Server thread/INFO]: <onibrow> home
-[17:54:54] [Server thread/INFO]: <candy__lover> wheres that
-[17:54:57] [Server thread/INFO]: <onibrow> uuhh
-[17:55:02] [Server thread/INFO]: <marinethan> lol
-[17:55:04] [Server thread/INFO]: <onibrow> -40 -17
-[17:55:07] [Server thread/INFO]: <candy__lover> ...
-[17:55:09] [Server thread/INFO]: <onibrow> x and z
-[17:55:22] [Server thread/INFO]: <candy__lover> JULIANNN
-[17:55:24] [Server thread/INFO]: <candy__lover> COME
-[17:55:28] [Server thread/INFO]: <marinethan> k
-[17:56:07] [Server thread/INFO]: <marinethan> MOTHER
-[17:56:13] [Server thread/INFO]: <candy__lover> BROTHER
-[17:56:14] [Server thread/INFO]: <marinethan> I MADE BUTTONS AGAIN
-[17:56:15] [Server thread/INFO]: <marinethan> OMG
-[17:56:18] [Server thread/INFO]: <onibrow> JAAHAHAHAh
-[17:56:22] [Server thread/INFO]: <candy__lover> JUJU
-[17:56:24] [Server thread/INFO]: <candy__lover> COME
-[17:56:24] [Server thread/INFO]: <marinethan> 2nd time i wasted so much wood
-[17:57:01] [Server thread/INFO]: <candy__lover> JULIANNN
-[17:57:03] [Server thread/INFO]: <candy__lover> ughhh
-[17:57:06] [Server thread/INFO]: <marinethan> LOL
-[17:57:10] [Server thread/INFO]: <candy__lover> -_-
-[17:57:23] [Server thread/INFO]: candy__lover has just earned the achievement [Taking Inventory]
-[17:57:35] [Server thread/INFO]: <marinethan> where rr u
-[17:57:38] [Server thread/INFO]: <marinethan> oh i c
-[17:57:48] [Server thread/INFO]: <candy__lover> i need food
-[17:57:50] [Server thread/INFO]: <marinethan> come
-[17:58:03] [Server thread/INFO]: <marinethan> this is food hest
-[17:58:05] [Server thread/INFO]: <marinethan> cheest
-[17:58:33] [Server thread/INFO]: <candy__lover> where do i build my house
-[17:58:45] [Server thread/INFO]: <onibrow> on julian's mountain
-[17:58:58] [Server thread/INFO]: <marinethan> wat blocks are u planning to use
-[17:59:07] [Server thread/INFO]: <marinethan> if wood, use arcadia wood
-[17:59:09] [Server thread/INFO]: <candy__lover> uh
-[17:59:11] [Server thread/INFO]: <marinethan> acacia
-[17:59:15] [Server thread/INFO]: <candy__lover> ok
-[17:59:18] [Server thread/INFO]: <marinethan> here
-[17:59:25] [Server thread/INFO]: <marinethan> f u need more, tell us
-[17:59:29] [Server thread/INFO]: <onibrow> woah
-[17:59:32] [Server thread/INFO]: <candy__lover> HAHAHAHA
-[17:59:32] [Server thread/INFO]: <marinethan> :)
-[17:59:40] [Server thread/INFO]: <candy__lover> ugh i need to go mining
-[17:59:49] [Server thread/INFO]: <marinethan> lol after u make ur house
-[17:59:59] [Server thread/INFO]: <candy__lover> where
-[18:00:04] [Server thread/INFO]: <marinethan> in my tree castle
-[18:00:10] [Server thread/INFO]: <candy__lover> ...
-[18:00:11] [Server thread/INFO]: <candy__lover> what
-[18:00:14] [Server thread/INFO]: <marinethan> oh
-[18:00:23] [Server thread/INFO]: <marinethan> anywhere here
-[18:00:25] [Server thread/INFO]: <marinethan> this area
-[18:00:31] [Server thread/INFO]: <marinethan> or u can make a platform branching off of our tree house
-[18:00:35] [Server thread/INFO]: <marinethan> dont break any trees
-[18:00:38] [Server thread/INFO]: <candy__lover> -_-
-[18:00:39] [Server thread/INFO]: <marinethan> just break leaves
-[18:00:43] [Server thread/INFO]: <candy__lover> ok
-[18:02:42] [Server thread/INFO]: <onibrow> bai
-[18:02:45] [Server thread/INFO]: <onibrow> i leave for now
-[18:02:47] [Server thread/INFO]: <onibrow> leave serve ron
-[18:02:51] [Server thread/INFO]: <onibrow> tell ace he can play
-[18:03:00] [Server thread/INFO]: <onibrow> but i'ma restart server to change max player setting
-[18:03:04] [Server thread/INFO]: onibrow lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:03:04] [Server thread/INFO]: onibrow left the game
-[18:03:11] [Server Shutdown Thread/INFO]: Stopping server
+[18:03:46] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[18:03:46] [Server thread/INFO]: Loading properties
+[18:03:46] [Server thread/INFO]: Default game type: SURVIVAL
+[18:03:46] [Server thread/INFO]: Generating keypair
+[18:03:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:03:46] [Server thread/INFO]: Using default channel type
+[18:03:47] [Server thread/INFO]: Preparing level "world"
+[18:03:47] [Server thread/INFO]: Preparing start region for level 0
+[18:03:48] [Server thread/INFO]: Preparing spawn area: 29%
+[18:03:48] [Server thread/INFO]: Done (1.814s)! For help, type "help" or "?"
+[18:03:59] [User Authenticator #1/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
+[18:03:59] [Server thread/INFO]: marinethan[/68.4.104.17:53145] logged in with entity id 249 at (0.4705398399856215, 12.0, -50.663067829557185)
+[18:03:59] [Server thread/INFO]: marinethan joined the game
+[18:06:08] [User Authenticator #2/INFO]: UUID of player candy__lover is b4b606fe-f556-4c38-bbbe-be44dfbc7755
+[18:06:08] [Server thread/INFO]: candy__lover[/68.4.104.17:61737] logged in with entity id 3519 at (-57.42794336802633, 87.0, -3.7084044016132576)
+[18:06:08] [Server thread/INFO]: candy__lover joined the game
+[18:07:14] [Server thread/INFO]: <candy__lover> i need more wood
+[18:07:17] [Server thread/INFO]: <marinethan> k
+[18:11:39] [Server thread/INFO]: <candy__lover> more wood
+[18:11:42] [Server thread/INFO]: <marinethan> rofl
+[18:15:28] [Server thread/INFO]: <marinethan> test
+[18:15:33] [Server thread/INFO]: [Server] is it laggy
+[18:15:35] [Server thread/INFO]: <candy__lover> no
+[18:15:35] [Server thread/INFO]: <marinethan> no
+[18:15:41] [Server thread/INFO]: <marinethan> i glitched out a block
+[18:17:05] [Server thread/INFO]: <candy__lover> more wood
+[18:17:49] [Server thread/INFO]: <candy__lover> lol
+[18:17:51] [Server thread/INFO]: <marinethan> sigh
+[18:17:54] [Server thread/INFO]: <marinethan> we have no more left
+[18:17:57] [Server thread/INFO]: [Server] what
+[18:18:00] [Server thread/INFO]: <marinethan> lol
+[18:18:02] [Server thread/INFO]: [Server] you ate all the woodup
+[18:18:05] [Server thread/INFO]: <marinethan> she used all the acacia wood
+[18:20:29] [Server thread/INFO]: <marinethan> brb
+[18:20:29] [Server thread/INFO]: marinethan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:20:29] [Server thread/INFO]: marinethan left the game
+[18:23:12] [Server thread/INFO]: candy__lover fell from a high place
+[18:23:32] [Server thread/INFO]: [Server] oh no
+[18:23:36] [Server thread/INFO]: [Server] what happened
+[18:23:44] [Server thread/INFO]: <candy__lover> i fell
+[18:23:44] [User Authenticator #3/INFO]: UUID of player marinethan is 35a29f78-8875-4c49-be5c-59c88551d54b
+[18:23:44] [Server thread/INFO]: marinethan[/68.4.104.17:55017] logged in with entity id 48022 at (-37.63042702994956, 87.0, -23.336396020884504)
+[18:23:44] [Server thread/INFO]: marinethan joined the game
+[18:24:26] [Server thread/INFO]: <candy__lover> jujju
+[18:25:04] [Server thread/INFO]: <marinethan> wat
+[18:25:12] [Server thread/INFO]: <candy__lover> i need wood
+[18:25:20] [Server thread/INFO]: <marinethan> we have no more acacia wood lol
+[18:25:22] [Server thread/INFO]: <candy__lover> lol
+[18:25:25] [Server thread/INFO]: <candy__lover> brb
+[18:25:31] [Server thread/INFO]: <candy__lover> imma go play tf2
+[18:25:33] [Server thread/INFO]: <marinethan> k
+[18:25:35] [Server thread/INFO]: candy__lover lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:25:35] [Server thread/INFO]: candy__lover left the game
+[18:26:30] [Server thread/INFO]: marinethan lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:26:30] [Server thread/INFO]: marinethan left the game
